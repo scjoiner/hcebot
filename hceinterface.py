@@ -1,3 +1,4 @@
+#standalone interface with essential hcebot functions for mods
 from Tkinter import *
 from ttk import *
 import praw
