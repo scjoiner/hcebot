@@ -23,7 +23,7 @@ Commands: Prefixed with "hcebot" to draw the bots attention. Command is given on
 * Remove kebab: Same as ban, requested by /u/Omnifox
 
 Automated features:
-* Scans for megathreads [Moronic Monday, Thickheaded Thursday, Friday Buyday, Official Politics Thread], updates banner if day of week is correct
+* Scans for megathreads [Moronic Monday, Thickheaded Thursday, Friday Buyday, Official Politics Thread], updates banner if day of week is correct and no thread exists for the current megathread
 * Auto-increments user flair if post karma is above link/self threshold
 * Auto-decrements user flair if post karma is below link/self threshold
 * Adds post warning to link posts without descriptions after warning thresold
