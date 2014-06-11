@@ -11,7 +11,6 @@ Features:
 * Integrates with twitter (@hcebot) for subreddit highlights
 * Optional GUI for quick functions
 * Logs to stdout and logfile for debug
-*
 
 TODO:
 * Archive logs
